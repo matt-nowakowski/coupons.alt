@@ -50,5 +50,70 @@
             "src": "https://sgi1.offerscdn.net/i/zdcs-merchants/01cICT0Lq6YJALYH1P9Hk0N.h90.w170.flpad.v646.bffffff.png",
             "link": "https://www.offers.com/exit/outbound/offer_id/11315654/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fgap%3Fem%3D11315654"
         }
+    },
+    {
+        "company": "Recent",
+        "coupon_code": "RAINBOW",
+        "preceding_text": "20% off any order with In-store or Curbside Pickup",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11324998/?content=JOANN.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11324998",
+            "text": "JOANN.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi3.offerscdn.net/i/zdcs-merchants/04Aw3Cf7HSSoloeJ4Vnd6UW.h90.w170.flpad.v640.bffffff.png",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11324998/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11324998"
+        }
+    },
+    {
+        "company": "Recent",
+        "coupon_code": "40OFF",
+        "preceding_text": "40% off any order",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11249280/?content=Shutterfly.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11249280",
+            "text": "Shutterfly.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi2.offerscdn.net/i/zdcs-merchants/02tvwmNYP9ZoJta2sj23qRS.h90.w170.flpad.v487.bffffff.png",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11249280/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11249280"
+        }
+    },
+    {
+        "company": "Recent",
+        "coupon_code": "CROCS15",
+        "preceding_text": "$15 off orders over $75",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11327246/?content=Crocs.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11327246",
+            "text": "Crocs.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi2.offerscdn.net/i/zdcs-merchants/01zQqjgqtTJjwG7WCM1guyc.h90.w170.flpad.v858.bffffff.png",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11327246/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11327246"
+        }
+    },
+    {
+        "company": "Recent",
+        "coupon_code": "BESTIES",
+        "preceding_text": "Extra 30% off any order",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11310378/?content=JCPenney.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11310378",
+            "text": "JCPenney.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi2.offerscdn.net/i/zdcs-merchants/02d6UP4tEzxsZlR8MkTwT63.h90.w170.flpad.v1245.bffffff.png",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11310378/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11310378"
+        }
+    },
+    {
+        "company": "Recent",
+        "coupon_code": "NEWADOPTION20",
+        "preceding_text": "$20 off orders over $49",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11119418/?content=Chewy%5C.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11119418",
+            "text": "Chewy.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi3.offerscdn.net/i/zdcs-merchants/05d8BQK2kXXFeZMEsCYyBRK.h90.w170.flpad.v751.bffffff.png",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11119418/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=deals&referer=https%3A%2F%2Fwww.offers.com%2Fdeals%3Fem%3D11119418"
+        }
     }
 ]
