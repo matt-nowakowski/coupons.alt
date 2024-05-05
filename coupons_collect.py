@@ -2,13 +2,18 @@ import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Setup Chrome with Selenium WebDriver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+def setup_driver():
+    options = Options()
+    options.headless = True  # Enable headless mode
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    return driver
 
 # List of URLs and company names
 urls = [
@@ -20,6 +25,8 @@ urls = [
 
 # List to hold all coupon data
 coupons_data = []
+
+driver = setup_driver()
 
 try:
     for entry in urls:
@@ -81,7 +88,9 @@ recent_coupons_data = []
 
 # Function to set up the WebDriver
 def setup_driver():
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    options = Options()
+    options.headless = True  # Enable headless mode
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     driver.get(url)
     return driver
 
