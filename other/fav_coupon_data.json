@@ -1,0 +1,54 @@
+[
+    {
+        "company": "COS",
+        "coupon_code": "HELLOMAY",
+        "preceding_text": "15% off any order",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11323722/?content=cos.com%2Fen&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fcos%3Fem%3D11323722",
+            "text": "cos.com/en"
+        },
+        "preceding_image": {
+            "src": "https://sgi2.offerscdn.net/i/zdcs-merchants/07FRs6KzUVSOf1HFY1gcYdh.h90.w170.flpad.v178.bffffff.jpg",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11323722/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fcos%3Fem%3D11323722"
+        }
+    },
+    {
+        "company": "Adidas",
+        "coupon_code": "OFF15",
+        "preceding_text": "15% off any order",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11315777/?content=Adidas.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fadidas%3Fem%3D11315777",
+            "text": "Adidas.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi1.offerscdn.net/i/zdcs-merchants/02l3hn547E4ktcHIJosrxL3.h90.w170.flpad.v1013.bffffff.png",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11315777/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fadidas%3Fem%3D11315777"
+        }
+    },
+    {
+        "company": "Kate Spade",
+        "coupon_code": "EXTRA40",
+        "preceding_text": "40% off any order",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11302085/?content=KateSpade.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fkate-spade%3Fem%3D11302085",
+            "text": "KateSpade.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi2.offerscdn.net/i/zdcs-merchants/05iJ80xs1dMUrb71vuRz67e.h90.w170.flpad.v559.bffffff.jpg",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11302085/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fkate-spade%3Fem%3D11302085"
+        }
+    },
+    {
+        "company": "Gap",
+        "coupon_code": "TREAT",
+        "preceding_text": "Extra 10% off any order",
+        "following_link": {
+            "url": "https://www.offers.com/exit/outbound/offer_id/11315654/?content=Gap.com&element=merchant-domain-link&item=merchant-url&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fgap%3Fem%3D11315654",
+            "text": "Gap.com"
+        },
+        "preceding_image": {
+            "src": "https://sgi1.offerscdn.net/i/zdcs-merchants/01cICT0Lq6YJALYH1P9Hk0N.h90.w170.flpad.v646.bffffff.png",
+            "link": "https://www.offers.com/exit/outbound/offer_id/11315654/?content=merchant-logo-image&element=merchant-logo&item=merchant-logo-image&module=code-commerce-modal&template=merchant-page&referer=https%3A%2F%2Fwww.offers.com%2Fstores%2Fgap%3Fem%3D11315654"
+        }
+    }
+]
