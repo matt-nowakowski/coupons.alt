@@ -122,6 +122,7 @@ for deal_index in range(5):  # Adjust as necessary for number of deals
 
             # Store data
             coupon_data = {
+                "company": "Recent",
                 "coupon_code": coupon_code,
                 "preceding_text": preceding_content,
                 "following_link": {"url": following_link, "text": following_text},
